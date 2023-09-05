@@ -1,0 +1,22 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_bat","order":1,"path":"objects/obj_bat/obj_bat.yy",},
+    {"name":"obj_ball_dup","order":6,"path":"objects/obj_ball_dup/obj_ball_dup.yy",},
+    {"name":"rm_hand_game_easy","order":1,"path":"rooms/rm_hand_game_easy/rm_hand_game_easy.yy",},
+    {"name":"obj_ball_cntrl_medium","order":8,"path":"objects/obj_ball_cntrl_medium/obj_ball_cntrl_medium.yy",},
+    {"name":"ball","order":5,"path":"sprites/ball/ball.yy",},
+    {"name":"bg","order":6,"path":"sprites/bg/bg.yy",},
+    {"name":"Sprite11","order":1,"path":"sprites/Sprite11/Sprite11.yy",},
+    {"name":"block","order":7,"path":"sprites/block/block.yy",},
+    {"name":"brickh","order":9,"path":"sprites/brickh/brickh.yy",},
+    {"name":"bat","order":2,"path":"sprites/bat/bat.yy",},
+    {"name":"obj_wall_h","order":5,"path":"objects/obj_wall_h/obj_wall_h.yy",},
+    {"name":"obj_wall","order":3,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"rm_hand_game_medium","order":2,"path":"rooms/rm_hand_game_medium/rm_hand_game_medium.yy",},
+    {"name":"obj_ball","order":4,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"obj_ball_cntrl_easy","order":7,"path":"objects/obj_ball_cntrl_easy/obj_ball_cntrl_easy.yy",},
+    {"name":"brick","order":8,"path":"sprites/brick/brick.yy",},
+    {"name":"obj_ball_cntrl","order":2,"path":"objects/obj_ball_cntrl/obj_ball_cntrl.yy",},
+  ],
+}
